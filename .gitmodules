@@ -1,0 +1,3 @@
+[submodule "fe-app"]
+	path = fe-app
+	url = git@github.com:alexnaldi/RSSCOLLECTOR-APP-FE.git
